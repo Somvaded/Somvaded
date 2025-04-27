@@ -1,8 +1,29 @@
-- 👋 Hi, I’m @Sovajit Roy
-- 👀 I’m interested in FullStack web development
-- 🌱 I’m currently learning MERN Stack
-- 💞️ I’m looking to collaborate on webapp projects
-- 📫 How to reach me sovajitr@gmail.com
+# 👋 Hi, I'm Sovajit Roy
+
+## About Me
+- 🔥 I'm passionate about **Backend Development** and **Fullstack Opportunities**.
+- 🛠️ Currently honing my skills in **Backend Development using Golang**.
+- 🤝 Looking to collaborate on **Web Application Projects**.
+- 📬 Reach me at **sovajitr@gmail.com**.
+
+---
+
+### 🚀 Skills
+- Languages: Golang , Python , Javascript , C++
+- Backend: Golang, Node.js
+- Web: HTML, CSS, JavaScript, React.js
+- Databases: PostgreSQL, MySQL, Mongodb
+- Tools: Git, VS Code, Docker, Linux
+
+---
+
+### 🌱 Currently Learning
+- Advanced Golang Concepts
+- Building Scalable Web Applications
+- System Design Basics
+
+---
+
 
 <!---
 Somvaded/Somvaded is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
